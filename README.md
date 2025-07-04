@@ -60,3 +60,14 @@ El backend está desarrollado con **Spring Boot** y ofrece una API REST para ges
    mvn spring-boot:run
 
 3. Accede a Swagger en: http://localhost:8080/swagger-ui.html (configurar según el puerto que utilices)
+
+---
+
+## 👤 Autor
+
+###  **Fabian Espinosa**
+
+🎓 **Estudiante de Ingeniería de Software & Ingeniería de Sistemas**  
+🏫 _Universidad de Cartagena_ | _Corporación Universitaria Remington_
+
+---
